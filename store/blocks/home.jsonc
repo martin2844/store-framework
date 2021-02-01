@@ -6,9 +6,8 @@
   },
   "rich-text": {
     "props": {
-      "text": "VTEX IS a JSON PARSER",
-      "textPosition": "RIGHT",
-      "textColor": "c-on-emphasis"
+      "text": "**Hello, World!**",
+      "textPosition": "CENTER"
     }
   }
   
